@@ -1,0 +1,2 @@
+PAPI Simülatorü - Beta
+Bir uçağın son yaklaşma sırasında doğru süzülebilmesi için pistlerin yanında “Precision Approach Path Indicator” (PAPI ışıkları) bulunur. Yerde 4 adet kırmızı ve 4 adet beyaz ışık bulunur ve pilot aynı anda sadece 4 tanesini görür. Bir pilotun 2 beyaz, 2 kırmızı ışık görmesi doğru süzüldüğü (3 derecelik bir açıyla) anlamına gelir. 2’den fazla kırmızı ışık görmesi çok alçak olduğunu gösterirken ikiden fazla beyaz olması çok yüksek olduğunu gösterir.
